@@ -39,3 +39,4 @@ int main() {
 | LinkedIn  | [Ссылка](www.linkedin.com) | 3 часа    |
 | WhatsApp  | [Ссылка](www.whatsapp.com) | 30 минут  |
 | Telegram  | [Ссылка](www.telegram.org/romasstana) | 5 минут   |
+username.sh выводит мое ФИО на латинском
